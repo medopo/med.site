@@ -12,9 +12,9 @@ var typed = new Typed(".typing2",{
     backSpeed:50,
     loop:true
 })
-///////////////////////////////////////////////////////////////////////////////////////
-var typed = new Typed(".medo",{
-    strings:["AHMED MEDO","Front End Developer"],
+///////////////////////////////////////////////////////////////////////////////////////////
+var typed = new Typed(".name2",{
+    strings:["","AHMED MEDO"],
     typeSpeed:200,
     backSpeed:200,
     loop:true
