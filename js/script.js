@@ -6,3 +6,9 @@ var typed = new Typed(".typing",{
     loop:true
 })
 //////////////////////////////////////////////////////////////////////////////////////////
+var typed = new Typed(".typing2",{
+    strings:["","Copyright &copy; 2023. All Right Reserved."],
+    typeSpeed:50,
+    backSpeed:50,
+    loop:true
+})
