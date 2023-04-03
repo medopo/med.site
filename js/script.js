@@ -14,7 +14,7 @@ var typed = new Typed(".typing2",{
 })
 ///////////////////////////////////////////////////////////////////////////////////////
 var typed = new Typed(".medo",{
-    strings:["AHMED MEDO","Front End Developer],
+    strings:["AHMED MEDO","Front End Developer"],
     typeSpeed:200,
     backSpeed:200,
     loop:true
