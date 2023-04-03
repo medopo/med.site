@@ -12,3 +12,10 @@ var typed = new Typed(".typing2",{
     backSpeed:50,
     loop:true
 })
+///////////////////////////////////////////////////////////////////////////////////////
+var typed = new Typed(".medo",{
+    strings:["","Copyright &copy; 2023. All Right Reserved."],
+    typeSpeed:200,
+    backSpeed:200,
+    loop:true
+})
